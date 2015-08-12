@@ -26,12 +26,14 @@
   - Calculator
   - Voice Memos
   - Tips
+  - Apple Watch
 - Camera
 - Maps
 - Notes
 - Reminders
-- Paper
+- Slack
 - Health
+- Activity
 
 ## Screen 2
 - 
@@ -44,19 +46,18 @@
   - WWDC
   - Connect
   - TestFlight
-  - Beats Music
 - Reading
   - Newsstand
-    - The Economist
   - Instapaper
   - Reeder
   - iBooks
   - Kindle
   - Medium
-  - Circa
   - Marvel Unlimited
+  - BuzzFeed News
+  - Storehouse
 - Productivity
-  - iA Writer
+  - iA Writer Pro
   - Dropbox
   - Day One
   - Pages
@@ -65,6 +66,7 @@
   - Deliveries
   - Prompt
   - Quotebook
+  - Coda
   - Transmit
   - Harvest
   - MailChimp
@@ -81,8 +83,6 @@
   - Dash
   - Things
   - Workflow
-  - Email+
-  - Group Text+
   - Screens
   - Calcbot
 - Social
@@ -97,82 +97,62 @@
   - Snapchat
   - Foursquare
   - LINE
-  - Pages
-  - Talk
-  - Hyperlapse
-  - SUPER
-  - Nextdoor
+  - Layout
+  - Ello
 - Finance
   - Chase
   - Simple
   - Wells Fargo
   - E*TRADE
-  - Wallet
   - Register
   - Cash
   - Acorns
   - Starbucks
   - MS Mobile
   - Fidelity
-  - Order
   - Wallet
   - Venmo
   - Robinhood
-  - Coinbase
-  - TransferWise
+  - Mint
 - Games
   - Blackbar
   - Eliss
   - Eliss ∞
   - Deep Green
-  - DEVICE 6
   - The Incident
   - Letterpress
   - Tall Chess
   - Year Walk
   - Companion
   - Game Center
-  - BADLAND
-  - Duet
-  - LIMBO
   - Threes
   - Monument Valley
-  - Sailor's Dream
   - Space Age
 - Entertainment
   - Trailers
   - Podcasts
   - iTunes U
-  - iMovie
-  - GarageBand
   - Vimeo
   - Star Walk 2
   - Netflix
   - Moves
-  - Reporter
-  - Jelly
   - Duolingo
-  - Elevate
+  - Overcast
 - Other
   - 1Password
-  - Authy
+  - Cloak
   - Dark Sky
   - Transit
   - Uber
   - United
-  - Nike+ Fuel
   - Running
   - Kickstarter
-  - Cloak
   - Amazon
-  - Weather
   - VSCOcam
-  - Vine
-  - Flickr
   - OpenTable
   - Yelp
   - Google
-  - Gmail
+  - Inbox
   - Google Maps
   - Chrome
   - Drive
@@ -181,29 +161,27 @@
   - Translate
   - YouTube
   - Autenticator
+  - Gmail
   - Beta
   - HockeyApp
-  - TestFlight (web clip)
-  - Codecademy
   - car2go
   - TriMet Tickets
   - Fly Delta
-  - Launch
   - Airbnb
   - Etsy
   - OpenVPN
   - PagerDuty
   - Health4Me
   - Manual
-  - Slow Fast
-  - Inbox
+  - Darkroom
+  - Pixelmator
   - Southwest
   - #Homescreen
-  - Nike Training
-  - Khan Academy
-  - Darkroom
   - Lyft
-- Overcast
-- Slack
-- Origami
-- iA Writer Pro
+  - UP Coffee
+  - Pillow
+  - Postmates
+  - Google Calendar
+  - Pinpoint
+- Spinlister
+- Yahoo Digest
