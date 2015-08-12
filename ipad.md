@@ -38,22 +38,17 @@
   - WWDC
   - Connect
   - TestFlight
-  - Beats Music
 - Reading
   - Newsstand
-    - The Economist
-    - Wired
-    - Bon Appétit
-    - Fast Company
   - Reeder
   - iBooks
   - Kindle
   - Medium
   - Marvel Unlimited
   - Storehouse
-  - Our Choice
+  - BuzzFeed
 - Productivity
-  - iA Writer
+  - iA Writer Pro
   - Dropbox
   - Day One
   - Pages
@@ -62,13 +57,13 @@
   - Deliveries
   - Prompt
   - Quotebook
+  - Coda
   - Transmit
+  - Status Board
   - MailChimp
   - Editor (MailChimp)
   - WolframAlpha
   - WordPress
-  - Diet Coda
-  - Status Board
   - Basecamp
   - Vesper
   - Docs
@@ -79,8 +74,7 @@
   - Dash
   - Things
   - Workflow
-  - Email+
-  - Group Text+
+  - Slack
   - Screens
   - Calcbot
 - Social
@@ -92,6 +86,7 @@
   - Skype
   - Foursquare
   - Hyperlapse
+  - Ello
 - Finance
   - Chase
   - Simple
@@ -100,7 +95,7 @@
   - Register
   - Morgan Stanley Mobile
   - Fidelity
-  - TransferWise
+  - Mint
 - Games
   - Blackbar
   - Eliss ∞
@@ -111,30 +106,26 @@
   - Year Walk
   - Companion
   - Game Center
-  - BADLAND
-  - Duet
-  - LIMBO
   - Threes
   - Monument Valley
   - Sailor's Dream
   - Space Age
+  - Alto's Adventure
 - Entertainment
   - Trailers
   - Podcasts
   - iTunes U
   - iMovie
-  - GarageBand
   - Vimeo
   - Star Walk 2
   - Netflix
   - Duolingo
-  - Elevate
+  - Overcast
 - Other
   - 1Password
-  - Authy
+  - Cloak
   - Dark Sky
   - Kickstarter
-  - Cloak
   - Amazon
   - OpenTable
   - Yelp
@@ -148,12 +139,8 @@
   - Translate
   - YouTube
   - HockeyApp
-  - TestFlight (web clip)
   - Etsy
   - VSCOcam
-  - Khan Academy
-  - Google Inbox
-- Overcast
-- Slack
-- Origami
-- iA Writer Pro
+  - Inbox
+  - Airbnb
+  - Pinpoint
